@@ -51,4 +51,4 @@ In order of thugs with lowest number
 For R: influence cubes of each player votes for a direction. Same directions are cumulative. If multiple directions are tied then move to the lowest number. For each thug on the gang move the thug up on the crime track. Each player takes 1 coin per their thug if moving into bad two, two per thug if moving into good town.
 For T: if the number of thugs in the gang is greater than the number of spots times the number of players (e.g. exceeds 8 if the gang occupies 2 spots) then expand if the number of spots is less than 4.
 
-All right, times up. Here's the picture of what I have
+All right, times up. [Here's the picture of what I have](table1.jpg)
