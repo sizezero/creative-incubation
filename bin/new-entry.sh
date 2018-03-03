@@ -21,7 +21,7 @@ if [[ -e $D ]]; then
 fi
 
 mkdir $D
-echo <<EOF > $F
+cat <<EOF > $F
 
 # Creative Incubation $E
 
@@ -30,7 +30,7 @@ TODO:
 [Here's the final picture.](table1.jpg)
 EOF
 
-echo <<EOF >> README.md
+cat <<EOF >> README.md
 
 [$E]($F)
 EOF
