@@ -6,3 +6,5 @@ Once a month I spend a few hours creatively playing with board game pieces. The 
 [2018-03-03](entries/2018-03-03/entry.md)
 
 [2018-03-10](entries/2018-03-10/entry.md)
+
+[2018-04-14](entries/2018-04-14/entry.md)
