@@ -66,3 +66,8 @@ Special cards have some interesting properties
 * they are earned by winning the four basic suits (non-crown, non-elephant) but the bonus does not help these basic suits. This gives players who want commodities incentive to play the purple suit just to win the elephant card
 * I still haven't figured out how to win and/or keep these reliably; I've had games where I've had very few of these and games where I've had a wild card that hasn't been helpful; maybe working to get the card you want and then intentially drawing suits that would earn that card is a good strategy? This would give other players fewer chances to win this as well as give you a greater chance to win it back. Maybe targeting the acquisition of one of the basic suits is a best practice.
 
+The game has a subtle relationship to randomness:
+* the setup is certainly random but it happens at the beginning of the game and the information is complete
+* The initial hand is random; this seems like the biggest random plus or minus given to any player in the entire game
+* the flop of replentished cards is random but usually there is some good stuff; it's hard to know what other players will take and the order players drop out so it's hard to know what you'll get
+* the unknown contents of other players hand makes auction battles very uncertain; this is an extra reason to avoid a large fight. The rules explicitly state that you can't tell another player about the contents of your hand so you cannot use this information to diffuse the tensions of an action fight.
