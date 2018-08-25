@@ -8,7 +8,7 @@ around a week and a half.
 
 Today while listening to podcasts a game idea came into my head. The
 background for this is two weeks of playing
-Lowlands[Lowlands](https://boardgamegeek.com/boardgame/242804/lowlands). The
+[Lowlands](https://boardgamegeek.com/boardgame/242804/lowlands). The
 key mechanic of the game is the dike building vs. the sheep
 building. If players contribute to the dike then the dike holds, sheep
 are worth more, and dike contributing is worth less. If players
@@ -34,6 +34,8 @@ generally opposed. Followers must choose a Wizard or Prophet to
 follow. Somehow the actions affect a communal games state, improve
 future actions, and allow for VP. This is all I have so far.
 
-## PA
+## PAX Dev Tuesday 8/28
+
+## PAX Dev Wednesday 8/29
 
 <!-- [Here's the final picture.](table1.jpg) -->
