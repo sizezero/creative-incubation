@@ -34,3 +34,7 @@ cat <<EOF >> README.md
 
 [$E]($F)
 EOF
+
+git add README.md
+git add $D
+git status
