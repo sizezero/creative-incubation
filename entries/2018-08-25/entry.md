@@ -65,6 +65,29 @@ problematic genre too soon, let's go through a list of genres and try to find ro
 |                      |            |             |          |
 |                      |            |             |          |
 
+Trying a different take on this. Instead of starting with the theme,
+let's start with the basic mechanics and go from there. Starting with
+four players and 3 cards: wizard, prophet, follower, let's see how we
+can play these in a round and device a working game with minimal
+mechanics.
+
+I used squib to [mock up some cards](https://github.com/sizezero/stone-flood).
+
+A two round play where each player plays a single card over two
+rounds. Players can play in the first or second round. Playing a card
+early means it is unbound. Playing a card late means it must bind with
+an appropriate type if possible. The second player chooses the bind if
+choices are available.
+
+Eric has some ideas.
+
+- reminds him of Modern Art
+- imagined having more cards, perhaps a hand
+- thought about having a secret action that may come in
+- thinks it would be easier to have a game in mind that models this mechanic
+
+
+
 ## PAX Dev Tuesday 8/28
 
 ## PAX Dev Wednesday 8/29
