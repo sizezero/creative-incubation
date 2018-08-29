@@ -102,6 +102,19 @@ Had some ideas overnight and talked with Eric. Some ideas
   - community vs wealth; civil unrest
   - tile shaped buildings; just use poker cards
 
+I had trouble thinking of basic buildings that would accept
+actions. Eric's advice to look for an existing game is probably a good
+idea.
+
+- Poker deck
+- Players are trying to build a winning poker hand
+- there are two drafts of face up cards
+  - solo leader chooses a card from the small draft
+  - joined card draws from large or small draft
+- follower draws one card from face down
+- joined follower draws two cards from face down keeps one
+- when someone completes a hand there are two more rounds
+
 ## PAX Dev Tuesday 8/28
 
 ### Ben Brode
@@ -207,5 +220,129 @@ tune with strategy
 Randomness can reward people that can read probability.
 
 ## PAX Dev Wednesday 8/29
+
+### The Wonderful Checklist
+
+Julian Quijano - Beautiful Glitch
+
+Made Monster Prom on the cheap. Started with $10K, $40K from kickstarter. team of 4-5
+
+< 2 months $1M sales
+
+- don't do everything yourself; surround yourself with more talent than yourself
+- childish urges: don't jump to the first enfatuation you have
+- hyper complex ideas: don't mash many concepts together; start simple
+- mammoth structures: don't start a multi million dollar game
+- sunk cost falacy: sometimes you have to cancel a project
+- fuck milestones:
+- I won't fail because I'm not even trying: strange bullshit; this prevents you from going all in but feels like it protects you from failure.
+- money is for sellout, i do art:
+- i don;t care for the market, i'm indie:
+
+parable of the market: you never really leave the market; to break the conventions you need to know the conventions
+
+triangle of creativity
+
+- enjoy it
+- avoid whims and short trends
+- you will enjoy it for a couple years
+- joy of playing and making games are not the same
+
+viability
+
+- don't go to big
+- reesources: money, time, talent
+- not a rule but be cautius and keep it simpple
+
+strategy
+
+- how does the game fit in the market
+- dont have to go with the market
+- big players can help success
+- how to assess this? build your wonderful checklist
+
+The Wonderful Checklist
+
+- how to communicate with the big players
+- have more than one idea and then use a checklist to choose the best project
+- look at the game: foundations and enhancers
+
+- foundation #1 "a hook"; a one line test to convince someone to play the game
+- #2 twist: buzz, more than a stunt; the game revolves around the twist
+- #3 Fuckton of variables; permutations
+- #4 emerging storytelling; permutations creates tiny stories
+- #5 prosumer ready; allow the player to be creative
+- #6 humor; jokes are the foundation for player's jokes; joke material; gag material
+- #7 horribly hard: frustration is a great combustible for fun on you tube
+
+enhancers not listed
+
+mechanics to dynamics; think how people interact; comes from board games
+
+details; for board games, lots of thought into cards/tiles
+
+conclusion: be analynical, avoid ego, be professional
+
+### Show, Don't Tell: The Power of Subtext in Games
+
+guys worked on anew the distant light
+
+great kubrick quote on subtext; subtext is more powerful than overt
+
+subtext is the hidden meaning that is contained in images sounds and actions
+
+Star Wars example: even subtext can be heavy handed.
+
+design risks: developers relinquish control to the player
+
+not always necessary
+
+### Views from the Shop
+
+Game Trust. The publishing arm of Gamestop.
+
+What is the future of genre, monetization, platforms
+
+Growth of the passive gamer.
+
+### Prototyping Games
+
+Goal: Save time and money, focus on what's important
+
+Setup
+
+cost and time different for phases of different creative things: digital game, board game, filem
+
+Every production problem can be solvd in pre-production
+
+prototype
+- intenral communication tool
+- explains to your team what the game is
+- quick iteration on story design mechanics
+- low cost , disposable , will be thrown away
+
+If you think you cant throw the prototype away then you spent too much money on it.
+
+fun should be in prototype
+
+game designers don;t make products they may experiences inside a user
+
+beware of things that users have never seen before
+
+if you have multiple mechanics then you need to have the prototype show them working together.
+
+Confrontation
+
+null
+
+Resolution
+
+double or tripple coding can help color blind
+
+Can augment paper prototypes with some AR kits
+
+
+
+Epilogue
 
 <!-- [Here's the final picture.](table1.jpg) -->
