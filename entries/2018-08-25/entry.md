@@ -115,6 +115,10 @@ idea.
 - joined follower draws two cards from face down keeps one
 - when someone completes a hand there are two more rounds
 
+Played poker with Eric and wolfe. Eric had the idea of pairing a couple follower cards wtih one faceup and one facedown leader card. This pairing gives the follower incentive to correctly guess what the leader does.
+
+Added lead/follower to Splendor. Played with Eric. It was nice to have leader pay his coins to the follower. For our first version the leader didn't get any benefit from being followed. That seemed ok but maybe it could be better if he got a one discount. This would allow leaders to gamble with a lead when that may not get followed. This can lead to goose eggs if the leader is not able to do anything. We should try it with four.
+
 ## PAX Dev Tuesday 8/28
 
 ### Ben Brode
