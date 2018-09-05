@@ -5,7 +5,7 @@ I'm just done with PAX and taking a day off. I should probably record
 all the games I've played just so I remember them. This blog is as
 good a place as any.
 
-Here is a (list of all first look games)[https://boardgamegeek.com/geeklist/245028/first-look-games-pax-west-2018] in the Olive 8.
+Here is a [list of all first look games](https://boardgamegeek.com/geeklist/245028/first-look-games-pax-west-2018) in the Olive 8.
 
 ## [The Shipwreck Arcana](https://boardgamegeek.com/boardgame/220517/shipwreck-arcana)
 
