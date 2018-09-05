@@ -7,17 +7,16 @@ good a place as any.
 
 Here is a (list of all first look games)[https://boardgamegeek.com/geeklist/245028/first-look-games-pax-west-2018] in the Olive 8.
 
-## Some Tarot deduction game.
+## [The Shipwreck Arcana](https://boardgamegeek.com/boardgame/220517/shipwreck-arcana)
 
-I played this two player which wasn't as
-fun since it is a game played with a "guessing side" and a silent
-side. With two players there is no guessing collaboration so it felt a
-bit flat. It was a quick play and kind of fun but I'm not into
-deduction games.
+I played this two player which wasn't as fun since it is a game played
+with a "guessing side" and a silent side. With two players there is no
+guessing collaboration so it felt a bit flat. It was a quick play and
+kind of fun but I'm not into deduction games.
 
-## Some Direct attack card game
+## [Hero Realms](https://boardgamegeek.com/boardgame/198994/hero-realms)
 
-There was some direct attack two player card game that I played with
+This was some direct attack two player card game that I played with
 Eric. I can't remember the name. Eric was interested in the co-op
 version but we didn't have it available when we played. I have no
 interest in these games so it was hard for me to judge. Eric wasn't
