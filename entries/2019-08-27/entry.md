@@ -1,10 +1,6 @@
 
 # Creative Incubation 2019-08-27
 
-TODO:
-
-[Here's the final picture.](table1.jpg)
-
 ## PAX Dev Tuesday 8/27
 
 ### overview of critical issues for a video game startup
@@ -60,7 +56,7 @@ Specs are not arguments. Get some amount of by-in early.
 
 It helps to think that your spec is crap, then you will be better able
 to get constructive feedback and incorporate it into your bad
-spec. Don't let on to this. It may look like false modesty.
+spec. Don't let your team on to this. It may look like false modesty.
 
 two objectives
 * technically correct
@@ -70,11 +66,12 @@ be honest if the design is broken
 
 lose an argument
 
-slide deck available at twitter:
-@HBS_Kiva
+slide deck available at twitter: @HBS_Kiva
+
+https://t.co/Pn09UaxbSR
 
 ### The Creative Battery
 
-How do we ensure that our creative discussionas and collaborations
+How do we ensure that our creative discussions and collaborations
 focus on positive interactions?
 
