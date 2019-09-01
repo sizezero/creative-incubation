@@ -3,8 +3,27 @@
 
 TODO: update this for 2019
 
-Here is a [list of all first look games](https://boardgamegeek.com/geeklist/245028/first-look-games-pax-west-2018) in the Olive 8.
+Here is a [list of all first look games](https://boardgamegeek.com/geeklist/260703/pax-west-first-look-preview?titlesonly=1) in the Hyatt.
 
-TODO:
+https://boardgamegeek.com/geeklist/260703/pax-west-first-look-preview?titlesonly=1
 
-[Here's the final picture.](table1.jpg)
+## [Keyforge]()
+
+## [Patchwork]()
+
+## [Merchant's Cove]()
+
+## [Aeon's End]()
+
+## [Obsession]()
+
+## [Ishtar: Gardens of Babylon]()
+
+## [Ragusa]()
+
+## [Black Angel]()
+
+
+
+
+
