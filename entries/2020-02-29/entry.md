@@ -7,10 +7,9 @@ Covid-19, a lot of Eric's friends canceled.
 
 One thing to say about the convention: it blows PAX out of the
 water. The library was ridiculously huge and well sorted so it was
-trivial to find a game. It had not only classic games but unreleased
-games as well as games that are very hard to find. As an example
-Nemesis is out of print and costs $500 on ebay but there were four
-copies available.
+trivial to find a game. It had classic games, unreleased games, and
+hard to find games. E.g. Nemesis is out of print and costs $500 on
+ebay but there were four copies available.
 
 I was sick during the Con so I didn't get to play as many games as I
 should have.
@@ -20,7 +19,7 @@ should have.
 ### [War of Whispers](https://boardgamegeek.com/boardgame/253499/war-whispers)
 
 This is a 4X game where instead of controlling the empires, you have
-random bets on the empires and direct bits of all battles. It was
+random bets on the empires and indirect control of all battles. It was
 pretty fun, very fast, and the asymmetry of the empires makes for a
 huge amount of fun.
 
@@ -34,16 +33,16 @@ The game comes in two versions: one with basic bits and one with
 enhanced bits. I think getting the enhanced version is required.
 
 We all wanted to play this again before the end of the con but didn't
-get a chance to.
+get a chance.
 
 I'll be buying this game.
 
 ### [Sushi Roll](https://boardgamegeek.com/boardgame/271869/sushi-roll)
 
-I never played Sushi Go so I don't know the roots of this game. You
+I never played Sushi Go which is the parent of this game. You
 roll dice and then draft the dice for points as well as extra
 actions. The game has a semi-hate mechanic where you can exchange dice
-with an arbitrary person which seemed to turn off our group.
+with an arbitrary person which was a turn-off for our group.
 
 It's not a bad game but not exceptional. I think drafting dice is
 significantly more cumbersome than drafting cards. Also, since the
@@ -74,11 +73,12 @@ A criticism of Race and Roll is that the shipping strategy is much
 more difficult than the building strategy. Often, if two people setup
 a shipping tech tree, they can be frustrated by both playing produce
 or both playing ship simultaneously when they would have been better
-served by have one produce and one ship. The designers claim that this
-is not a problem since a good player will never do all building or all
-shipping but will do a little of one and leach off the other but that
-doesn't help if you are a novice player. With the new game, it's very
-easy for two players to perform regular produce/ship actions.
+served by having one produce and one ship. The designers claim that
+this is not a problem since a good player will never do all building
+or all shipping but will do a little of one and leach off the other
+but that doesn't help if you are a novice player. With the new game,
+it's very easy for two players to perform regular produce/ship
+actions.
 
 I think it's worth saying that my criticism of the game was the lone
 negative voice in the group that was playing. Everyone else in the
@@ -109,8 +109,8 @@ This is a high production game that has two separate mechanisms:
 1. Recruit trolls from a pyramid structure. Higher trolls in the pyramid require you to pay more by "bribing" the trolls beneath them. Add the new troll to your own pyramid of trolls which makes all of the trolls beneath them produce resources.
 2. Use resources to dig tunnels into the mountain, unearthing statues, getting more resources, special powers, moving statues, making great halls, etc.
 
-There are some other effects such as spells but these are not central
-to the game.
+There are some other effects such as spells and workshops but these
+are not central to the game.
 
 The most interesting part of the game is the troll recruitment. The
 cascade effect when producing is super cool and requires you to make
@@ -118,20 +118,21 @@ decisions on how to build your pyramid. Also, if a troll has unspent
 resources when you produce then you do not produce those
 resources. This gives players the incentive to deplete their troll
 resources before producing in order to maximize production which
-results in a nice cycle of production consumption. This reduces AP a
+results in a nice cycle of production / consumption. This reduces AP a
 bit and also allows you to better predict what other players might do.
 
 This opinion isn't novel, it's the same one [Tom Vassal gave in his
 review](https://boardgamegeek.com/video/250895/hall-mountain-king/hall-mountain-king-review-tom-vasel).
 
 The least interesting part of the game is the digging mechanism. The
-game uses tetris like pieces to place which gives me a little bit of
-AP. Also the game is very fiddly with stones that require axes to cut
-through, gaining resources, workshops and all kinds of other things
-that affect your digging decisions. By the time the game ended I
-realized I really should have just been focused on getting statues
-more than anything. Eric mentioned that the theme of "Trolls moving
-statues to the center of the mountain" makes no sense whatsoever.
+game uses tetris like pieces to expand you tunnel network. This gives
+me a little bit of AP. Also the game is very fiddly with stones that
+require axes to cut through, gaining resources, workshops and all
+kinds of other things that affect your digging decisions. By the time
+the game ended I realized I really should have just been focused on
+getting statues more than anything. Eric mentioned that the theme of
+"Trolls moving statues to the center of the mountain" makes no sense
+whatsoever.
 
 Definitely not a buy or a play again but I recommend any designer
 play the game once. Someone please make a simple game that uses the
@@ -154,7 +155,7 @@ I made Eric play this one.
 It has all the same mechanics of all the Arkham games. I really felt
 Eldritch, MoM, and Arkham LCG had mechanics that greatly improved the
 previous games but I don't see what this one adds. There is a modular
-map but I think LCG and MoM does a better job by limiting vision until
+map but I think LCG and MoM do a better job by limiting vision until
 the new spaces are explored. The game has story telling aspect which
 is on par with what you get in Eldritch but not as rich as either MoM
 or LCG.
@@ -199,8 +200,8 @@ Cooperative trick taking game.
 Did you do a double-take after reading that? I sure did.
 
 The deck contains four suits, ten values in the suit, and four cards
-of a fifth trump suit. Beyond that there are a few counters to keep
-track of the more difficult scenarios.
+of a fifth trump suit. Beyond that there are a few counters used for
+signalling and to keep track of the more difficult scenarios.
 
 There are fifty missions and the first is simply to make sure a
 particular player takes a particular card (e.g. the green five). There
@@ -259,11 +260,12 @@ game and wanted to show it to Eric.
 * The small deck and small handsize gives you more control.
 * There is an abundance of single use cards. This combined with the ability to hold a card until the next turn and the visibility of the map allows for really good one use strategies. This is rare in deckbuilders.
 
-After playing Eric mentioned that he liked the fact that the whole
+After playing, Eric mentioned that he liked the fact that the whole
 board is visible which gives players a very tangible sense of the
 progress of the game.
 
-Both Eric and Tim showed an interest in buying this game. The game now has two expansions.
+Both Eric and Tom showed an interest in buying this game. The game now
+has two expansions.
 
 ### [Liars Pirate]()
 
@@ -300,19 +302,19 @@ one.
 
 ### [Nemesis](https://boardgamegeek.com/boardgame/167355/nemesis)
 
-This is a giant, semi-coop game that takes a group of players through
-the plot of Alien. It was probably folly to try to learn and play this
-at a Con but we got through most of the rules and played enough turns
-to get an idea for the game.
+This is a giant, semi-cooperative game that takes a group of players
+through the plot of Alien. It was probably folly to try to learn and
+play this at a Con but we got through most of the rules and played
+enough turns to get an idea for the game.
 
-I think it does a great job giving that claustrophobic space feel of
-alien. The game is hard, the aliens are practically unstoppable, and
-you're not sure if you can trust your shipmates.
+I think it does a great job giving that nervous, claustrophobic feel
+of alien. The game is hard, the aliens are practically unstoppable,
+and you're not sure if you can trust your shipmates.
 
 A couple notes:
 
 * There needs to be an alpha player who has internalized all the rules.
-* The characters are very distinct. Not only do the characters have unique starting items but they have custom decks that allow them to make unique actions.
+* The characters are very distinct. Not only do the characters have unique starting items but they have custom decks that allow them to take unique actions.
 * Slime and contamination add junk cards to your deck to slow you down. When you get contaminated you don't know whether or not your infected. You have to go to the med bay and use a "decoder" to see whether or not you're infected.
 * Noise is a first place mechanic which can attract aliens adding the tension.
 * Hidden objective cards allow players to choose to be either good (personal) or bad (corporate). The decision has to be made by the middle of the game.
