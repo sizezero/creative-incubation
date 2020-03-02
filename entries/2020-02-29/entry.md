@@ -58,14 +58,14 @@ are just like it.
 
 Some differences in this version:
 
-1. All developments are visible and can be bought ant any time. This includes the powerful 6 cost developments.
+1. All developments are visible and can be bought at any time. This includes the powerful 6 cost developments.
 1. Worlds can be easily searched for and placed, ready to be built, on the tableau. There is no commitment to building these planets so they can be replaced with others until they are built.
 1. Phases are not chosen simultaneously. Each player takes a turn to choose a phase followed by all other players.
 
 I think (1) and (2) make the game friendlier to inexperienced players
 but have the side effect that it's really easy to get the super
 powerful combinations. The game we played and the other game I watched
-was easily won by the player who did a dominant military strategy. In
+were easily won by the player who did a dominant military strategy. In
 Race or Roll, getting all of these synergistic worlds/devs out would
 have been exceedingly difficult.
 
@@ -77,8 +77,8 @@ served by having one produce and one ship. The designers claim that
 this is not a problem since a good player will never do all building
 or all shipping but will do a little of one and leach off the other
 but that doesn't help if you are a novice player. With the new game,
-it's very easy for two players to perform regular produce/ship
-actions.
+phases are chosen sequentially so it is very easy for the first player
+to choose produce, giving the second player the opportunity to ship.
 
 I think it's worth saying that my criticism of the game was the lone
 negative voice in the group that was playing. Everyone else in the
@@ -106,7 +106,7 @@ would probably not play it again if someone threw it on the table.
 
 This is a high production game that has two separate mechanisms:
 
-1. Recruit trolls from a pyramid structure. Higher trolls in the pyramid require you to pay more by "bribing" the trolls beneath them. Add the new troll to your own pyramid of trolls which makes all of the trolls beneath them produce resources.
+1. Recruit trolls from a pyramid structure. Higher trolls in the pyramid require you to pay more by "bribing" the trolls beneath them. Adding the new troll to your own pyramid of trolls makes all of the trolls beneath them produce resources.
 2. Use resources to dig tunnels into the mountain, unearthing statues, getting more resources, special powers, moving statues, making great halls, etc.
 
 There are some other effects such as spells and workshops but these
@@ -125,9 +125,9 @@ This opinion isn't novel, it's the same one [Tom Vassal gave in his
 review](https://boardgamegeek.com/video/250895/hall-mountain-king/hall-mountain-king-review-tom-vasel).
 
 The least interesting part of the game is the digging mechanism. The
-game uses tetris like pieces to expand you tunnel network. This gives
+game uses tetris like pieces to expand your tunnel network. This gives
 me a little bit of AP. Also the game is very fiddly with stones that
-require axes to cut through, gaining resources, workshops and all
+require axes to cut through, gaining resources, workshops, and all
 kinds of other things that affect your digging decisions. By the time
 the game ended I realized I really should have just been focused on
 getting statues more than anything. Eric mentioned that the theme of
@@ -175,7 +175,7 @@ Friedemann Friese seems to have a capability to endlessly create these
 clever little games.
 
 This one has players performing a worker placement action on a set of
-nine cards. You either use the power of the cards to improve you hand
+nine cards. You either use the power of the cards to improve your hand
 (sets of fruit) or to claim the set of fruit listed on the bottom of
 the card. The first person to claim three cards wins.
 
@@ -234,13 +234,15 @@ easily.
 
 The deckbuilding is interesting in that each player has their own
 private tableau of four face up cards that they can purchase to add to
-their decks. The decks are thematic and tiered so that better, more
-expensive cards are at the bottoms of the stacks. The board is very
-interactive and players will often say "I wanted to go there!" so it's
-nice to have another part of the game (the cards to purchase) that is
-safe from interaction.
+their decks. The stacks of cards to purchase are thematic and tiered
+so that better, more expensive cards are at the bottoms of the
+stacks. The board is very interactive and players will often say "I
+wanted to go there!" so it's nice to have another part of the game
+(the cards to purchase) that is safe from interaction. Each player's
+purchasable cards are different which adds a nice asymmetry to the
+game.
 
-In the end the game felt a little long. I think it needs to be this
+In the end, the game felt a little long. I think it needs to be this
 long to be able to purchase interesting cards but our group felt we
 got everything we needed out of the game by the halfway mark.
 
@@ -256,7 +258,7 @@ decided to play a game someone already knows. I felt that Knizia
 really improved the deck building mechanic in a few ways with this
 game and wanted to show it to Eric.
 
-* There is a large tableau of cards but a limit to which cards you can buy at a time. This reduces AP and also adds an interesting decision about when you want to exhaust a deck.
+* There is a large tableau of cards but a limit to which cards you can buy at a time. This reduces AP and also adds an interesting decision about when you want to exhaust a deck since the next player will have the opportunity to choose the replacement stack.
 * The small deck and small handsize gives you more control.
 * There is an abundance of single use cards. This combined with the ability to hold a card until the next turn and the visibility of the map allows for really good one use strategies. This is rare in deckbuilders.
 
@@ -319,18 +321,18 @@ A couple notes:
 * Noise is a first place mechanic which can attract aliens adding the tension.
 * Hidden objective cards allow players to choose to be either good (personal) or bad (corporate). The decision has to be made by the middle of the game.
 
-There's a ton more stuff. I find the whole thing to be a love letter to
-Alien and can't wait to get it and find a group to play it with. I
+There's a ton more stuff. I find the whole thing to be a love letter
+to Alien and can't wait to get it and find a group to play it with. I
 doubt the game has much replayability. I could see playing it two or
 three times and that would probably be enough. There are a couple
-expansion out but who knows if they are any good. They were funded by
+expansions out but who knows if they are any good. They were funded by
 kickstarter stretch goals.
 
 Now I just have to wait for a reprint and hope the quality is decent.
 
 ### [Carnival of Monsters]()
 
-We rushed this last game before I had to head to the airport.
+We rushed this last game before I headed to the airport.
 
 The game is a simple drafting game. There are several types of land
 you draft. These land types allow you to draft monsters for victory
