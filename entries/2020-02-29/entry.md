@@ -222,6 +222,30 @@ ruined by either a player who doesn't try hard enough or a bully.
 I think Wolfe and Britta would either love this game or be completely
 bored with it.
 
+### [Horrified](https://boardgamegeek.com/boardgame/282524/horrified)
+
+The best description of this game is "Lil' Arkham Horror"
+
+The game includes the intellectual property of all the old Universal
+Studio monsters: Dracula, Frankenstein, Wolfeman, Mummy, Creature from
+the Black Lagoon, etc. Each player has a unique investigator that has
+a special power and cooperatively moves around the Arkham-like map,
+picking up items, staying out of the way of overpowered monsters, and
+trying to defeat them. Each monster is defeated in a unique way so
+Dracula requires you to destroy four coffins littered around the city
+before driving a stake through his heart. Frankenstein requires you to
+give him yellow (happy) items to show him what it's like to be
+human. Each monster has a unique way to defeat it.
+
+Our group was feeling cocky so we played with the most difficult setup
+(four monsters) and were thoroughly crushed. It was fun.
+
+The game is probably a good introduction to cooperative games. It's
+not very complicated but still interesting to someone unfamiliar with
+games. I find that co-op games need to be big and complex in order to
+have any chance of replayability. (Robinson Crusoe, Space Alert, etc.)
+I'll be passing on this.
+
 ### [Super Motherload](https://boardgamegeek.com/boardgame/162286/super-motherload)
 
 Dig Dug the board game with deckbuilding.
