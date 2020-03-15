@@ -354,6 +354,67 @@ kickstarter stretch goals.
 
 Now I just have to wait for a reprint and hope the quality is decent.
 
+### [Ecos: First Continent](https://boardgamegeek.com/boardgame/279254/ecos-first-continent)
+
+I'm not sure which day we played this game. Eric had played it before
+and taught the game to Suzie and I.
+
+In the same way that King of Tokyo made a modern game out of Yahtzee,
+this game is credited with making a modern game out of Bingo.
+
+There are two parts of the board that are connected by a central action:
+
+1) There are two decks of cards. One contains engine building cards
+and one contains victory point generating cards. Some actions bring
+these cards into you hand and some actions allow you to play
+cards. Card movement is slow so don't expect to draw an play cards
+every turn.
+
+2) The central action is a bag of resource chits. One player
+continually draws these resources allowing all players to possibly
+advance the building of one of their played cards. This is the
+equivalent of marking a letter on your bingo card. Once a particular
+"end" resource is drawn, the bag is refilled and passed to another
+player.
+
+3) When a card scores a player yells "Eco" and the game is paused
+while the player takes an action. This action involves adding to a
+central, common hexoganal savannah map. Hexes can be added, mountains
+and forests can be added, animals can be added or migrated to
+surrounding hexes. Scoring actions allow players to earn VP based on
+the state of this map.
+
+Some reactions to the game:
+
+* The central board is gorgeous. The hexes are simple but the red
+  mountains and green trees look great.
+* Cards in the tableau can be a little fiddly. They are rotated as
+  they are used up which can make it difficult to read the card. I
+  didn't mind this but the other players did.
+* None of us knew how the engine worked so we basically played
+  whatever cards we had. I have no idea if there are synergies that an
+  experienced play can hope to achieve (like Race for the Galaxy) or
+  if it's a shot in the dark. (like Wingspan)
+* If resource is drawn that you can't use (or don't want to use) then
+  you can advance a card that lets you either draw a card, play a
+  card, or get a worker. More workers allow you to have more
+  simultaneous cards that are in use. This is a nice mechanic that
+  makes sure a player always has something to do when a tile is draw.
+* Some cards are just resource converters. It would be interesting to
+  see how these could be made into a well run engine.
+
+My final thoughts on this are a bit mixed. I am not so enamored with
+this that I would go out and buy this immediately. On the other hand
+I'm intrigued to play the game some more and see what good engines can
+be built.
+
+I wonder how much randomness is in the game. If the randomness of the
+resource draw dominates the game, then the complexity of the cards may
+just get in the way. However, if a skilled player can draw and play
+the right cards to generate a powerful engine then I would probably
+like the game. I also like the central area that everyone is messing
+with. That could lead to lots of surprises.
+
 ### [Carnival of Monsters]()
 
 We rushed this last game before I headed to the airport.
