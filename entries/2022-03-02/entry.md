@@ -91,7 +91,7 @@ strategies/tactics can get in the game.
 
 ## Friday
 
-### Maricaibo
+### [Maricaibo](https://boardgamegeek.com/boardgame/276025/maracaibo)
 
 This was a super point-salady game with a ton of different
 mechanisms. I fell behind early and ended up joining Eric's Spain
@@ -109,7 +109,7 @@ straggleer to piggy back onto someone who advanced the
 nation. Suggested making a "first here" bonus to fix that. I'm not
 sure more scoring patches would help.
 
-### Dodos Riding Dinos
+### [Dodos Riding Dinos](https://boardgamegeek.com/boardgame/254683/dodos-riding-dinos)
 
 Mario Kart the board game. Not much to say about this. I bet a group
 of young kids would have a blast with this.
@@ -118,7 +118,7 @@ There were a lot of extra boards that added more game effects. This
 seemed unecessary to me as the game was already so random but maybe the
 extra complexity is fun to some people?
 
-### Libertalia
+### [Libertalia second edition](https://boardgamegeek.com/boardgame/125618/libertalia)
 
 The most interesting part of this game was the mechanic of taking a
 large set of cards and giving each player a subset of them. The
@@ -132,7 +132,7 @@ think I'd be interested in playing this game again but it would be
 interesting to see anothr game that uses this "subset of a deck"
 mechanic.
 
-### Cosmic Colonies
+### [Cosmic Colonies](https://boardgamegeek.com/boardgame/283095/cosmic-colonies)
 
 This was a very light game where you collect resources and build a
 tableu of tetris shapes on a private map. Obviously I hated the tetris
@@ -147,20 +147,20 @@ played similar cards over and over.
 
 There's no reason to play this game again.
 
-### Dune Imperium Expansion
+### [Dune Imperium with expansion](https://boardgamegeek.com/boardgame/342031/dune-imperium-rise-ix)
 
 IX technology tiles, dreadnaughts, a mess of new cards, and new CHOAM
 action spaces. All the additions feel good although the increase deck
 size might make for an even more random tableau as there is no good
 card searching.
 
-I won the game because I was the only one to unlock the CHOAM ability early and then
-bought a third worker. This let me spam the powerful ability with my
-normally dud, third worker.
+I won the game because I was the only one to unlock the CHOAM ability
+early and then bought a third worker. This let me spam the powerful
+ability with my normally dud, third worker.
 
 ## Saturday
 
-### Dune Imperium
+### [Dune Imperium](https://boardgamegeek.com/boardgame/316554/dune-imperium)
 
 We played 1 1/2 games without the expansion. Not much new but I had an
 interesting experience in the last game.
@@ -185,16 +185,25 @@ Eric ended up building an amazing deck with some of the new cards,
 built a big lead, but somehow ended up losing to the other player
 (Wyatt). I'm not sure how that happened.
 
+I also noticed that in this game the third worker seemed a little more
+effective than it normally did. On reflrection I think it's because a
+three player game has the same number of worker spaces as a four
+player game thus there are usually better placement options. I talked
+with Eric about this and he said he kind of likes it when games change
+with the player count. I was reminded of the drastic difference in the
+effectiveness of the Library card with different player counts in [San
+Juan](https://boardgamegeek.com/boardgame/8217/san-juan)
+
 I think I really like this game. I wish my game group liked it
 more. Maybe there's some way to get them to play faster to shorten the
 length.
 
-### Everdell
+### [Everdell](https://boardgamegeek.com/boardgame/199792/everdell)
 
 We had a group of four, really good gamers and we couldn't think of
 anything to play. I really should have done my homework and made a
 list of new games I wanted to play. I'm not sure why, but we decided
-to player Everdell. Eric and I had played it years ago and were not
+to play Everdell. Eric and I had played it years ago and were not
 impressed.
 
 Nothing to say here except two things.
@@ -205,7 +214,7 @@ Nothing to say here except two things.
 - The game is, amazingly, listed as a family game despite its
   complexity.
 
-- I couldn't help but wonder if the cutesy nature of this gam could
+- I couldn't help but wonder if the cutesy nature of this game could
   bring some players towards complex gaming. Maybe you could play and
   have fun with the beautiful tree, build random cards, and slowly
   learn the game?
@@ -213,21 +222,21 @@ Nothing to say here except two things.
 Future self: do not play this game again. I repeat: DO NOT PLAY THIS
 GAME AGAIN!
 
-### Regicide
+### [Regicide](https://boardgamegeek.com/boardgame/307002/regicide)
 
 Another fun play. It improved the second play as I saw a bit more of
 the depth, looking at all the players hands counts and considering how
 my actions would affect them. The end came quick like a guiotine which
 was nice, not long and drawn out.
 
-### Shipwreck Arcana
+### [Shipwreck Arcana](https://boardgamegeek.com/boardgame/220517/shipwreck-arcana)
 
-Sure I don't like deduction games but this one is fairly constrained
+Sure, I don't like deduction games but this one is fairly constrained
 and short, so you'd think I could enjoy it a little. I don't know if
-I'm just terrible at deduction or if I just don't have fun doing
-it. Probably a combination of the two.
+I'm just terrible at deduction or if I just don't have fun make my
+brain do it. Probably a combination of the two.
 
-### Furnace
+### [Furnace](https://boardgamegeek.com/boardgame/318084/furnace)
 
 We played our first game with the special powers and the concensus was
 that it didn't help the game at all. The powers felt a little
@@ -237,8 +246,9 @@ wanted.
 
 I won the game but I got really felt lucky in that I overproduced iron
 in the first round and in the second round there were a ton of spots
-available for converting consolation iron. Since no one else had iron
-I was like a kid in a candy store. I'm hoping that since this is such
-a short game, that lucky breaks like this won't ruin the experience.
+available for converting consolation iron to something else. Since no
+one else had iron I was like a kid in a candy store. I'm hoping that
+since this is such a short game, that lucky breaks like this won't
+ruin the experience.
 
 Eric gave me the game afterwards. Thanks Eric!
